@@ -1,2 +1,2 @@
-# SMEB2201_Lecture_on_QM_in_Materials_Science
+#Applied Quantum Mechanics 
 This is a list of simulations used to guide the students in the unnderstanding of QM in materials science and everyday life
