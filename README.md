@@ -1,3 +1,3 @@
-#Applied Quantum Mechanics# 
+# Applied Quantum Mechanics 
 
-This is a list of simulations used to guide the students in the unnderstanding of QM in everyday life
+This is a list of simulations used to guide the students in the unnderstanding of Quantum Mechanics in everyday life
